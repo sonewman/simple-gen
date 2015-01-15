@@ -1,0 +1,26 @@
+{
+  "name": "simple-gen",
+  "version": "0.0.0",
+  "description": "simple key generator",
+  "main": "simple-gen.js",
+  "dependencies": {
+    "macchiato": "^2.4.0"
+  },
+  "devDependencies": {
+    "macchiato": "^2.5.1"
+  },
+  "scripts": {
+    "test": "macchiato test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/sonewman:simple-gen.git"
+  },
+  "keywords": [
+    "unique",
+    "key",
+    "generator"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT"
+}
